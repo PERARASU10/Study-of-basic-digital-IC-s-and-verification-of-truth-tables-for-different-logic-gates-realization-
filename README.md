@@ -82,7 +82,9 @@ Logic symbol & Truthtable
 ![Image 2022-12-27 at 14 03 22](https://user-images.githubusercontent.com/118348589/209796040-39759d3e-66e1-4f2c-8a9d-20ff1e13e44b.jpg)
 
 RTL realization
+
 Output:
+
 RTL: ![Image 2022-12-27 at 14 03 22](https://user-images.githubusercontent.com/118348589/209690554-516fb7d9-4443-4505-9e4a-71ae6f746199.jpg)
 
 
